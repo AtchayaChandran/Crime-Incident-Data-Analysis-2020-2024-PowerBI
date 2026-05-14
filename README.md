@@ -38,3 +38,6 @@ This project focuses on analyzing crime incident data from 2020–2024 using Pow
 ## Outcome
 
 The dashboard transforms raw crime data into meaningful visual insights and supports data-driven analysis and decision-making.
+
+## PDF 
+
